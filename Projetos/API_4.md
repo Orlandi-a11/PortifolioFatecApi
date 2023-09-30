@@ -15,8 +15,10 @@ Neste projeto, conduzimos uma segmentação avançada para identificar novas nec
 - Gitlab (Repositorio da aplicação);
 
  ## Contribuições Pessoais: 
+ 
 <summary> 1 sprint - Monatgem do modelo Logico e conceitual do banco de dados e prototipagem de telas em figma: </summary>
-- Nesta primeira apresentação trabalhei na elaboração e montagem do banco de dados, além de dar início à sua implementação no PGAdmin. Também dedicamos tempo à prototipagem de telas no Figma, visando criar uma representação visual do sistema.;
+
+- Nesta primeira apresentação trabalhei na elaboração e montagem do banco de dados, além de dar início à sua implementação no PGAdmin. Também dedicamos tempo à prototipagem de telas no Figma, visando criar uma representação visual do sistema;
 
 2° Sprint - Alterações no banco de dados e alteração da plataforma:
 - Realizei a  alteração de colunas e tabelas para sua intergração e inserção em formato oracle sqlDevolper;
