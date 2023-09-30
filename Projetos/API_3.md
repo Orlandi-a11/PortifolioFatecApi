@@ -16,8 +16,10 @@ Neste projeto, nós desenvolvemos uma aplicação web abrangente que incluiu um 
 - Gitlab (Repositorio da aplicação);
 
  ## Contribuições Pessoais: 
- <details>
-<summary> 1 sprint  - Monatgem do modelo Logico e conceitual do banco de dados:  </summary>
+<details>
+<summary> 1° sprint - Monatgem do modelo Logico e conceitual do banco de dados: </summary>
+
+ 
 - Auxilio na montagem do banco de dados e inicio de sua aplicação em PGadm;
 
 2° Sprint & 3° Sprint - Inicio da montagem do readme e inserção do inicio do projeto no gitlab: 
