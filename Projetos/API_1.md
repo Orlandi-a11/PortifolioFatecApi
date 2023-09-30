@@ -43,6 +43,10 @@ Este projeto tinha como objetivo é a integração entre motorista e passageiros
   
 - Comunicativo: Desenvolvi bastante esta Soft Skills para sanar todas as duvidas ao decorrer do projeto e alem disso a comunicação entre o grupo para imediatamente instruir o grupo do que estava sendo feito e o que se deve melhorar.
 
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+:chart_with_upwards_trend:  GIT DO PROJETO: 
 
 
 - 🔗 [GIT](https://github.com/Valdineynascimento/projeto_integrador_coffeend).
