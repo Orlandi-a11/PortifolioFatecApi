@@ -22,8 +22,11 @@ Neste projeto, nós desenvolvemos uma aplicação web abrangente que incluiu um 
  
 - Auxilio na montagem do banco de dados e inicio de sua aplicação em PGadm;
 
-2° Sprint & 3° Sprint - Inicio da montagem do readme e inserção do inicio do projeto no gitlab: 
-- Trabalhamos numa montagem de um readme dinamico e o com o maximo de detalhes possiveis para a compreensão dos clientes e demais;
+2° Sprint - Inicio da montagem do readme e inserção do inicio do projeto no gitlab: 
+- Trabalhei numa montagem de um readme dinamico e o com o maximo de detalhes possiveis para a compreensão dos clientes e demais;
+
+3° Sprint - Realização do sistema de correção do readme e produto backlog: 
+- Inicio da correção do produto backlog de cada sprint e correção do readme apresentado ao cliente.
 
 4° Sprint - Montagem de readme separados:
 - Foi criado um readme para cada realização da sprint para evitar excesso de informações no readme principal e possuir mais detalhes do que estava sendo realizado em cada uma das etapas.
@@ -32,7 +35,8 @@ Neste projeto, nós desenvolvemos uma aplicação web abrangente que incluiu um 
 
 #### Hard Skills Efetivamente Desenvolvidas
 - Gitlab (Sei fazer sem ajuda)
-- Postgree (sei fazer som ajuda); 
+- Power point (sei fazer sem ajuda)
+
 
 #### Soft Skills Efetivamente Desenvolvidas
   
