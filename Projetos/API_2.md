@@ -49,6 +49,6 @@ Neste semestre a empresa Visiona nos propos um  projeto de desenvolvimento de AP
 
 
 
-:chart_with_upwards_trend:  GITHUB DO PROJETO: 
+:chart_with_upwards_trend:  GIT DO PROJETO: 
 
 - 🔗 [GIT](https://gitlab.com/orl22/projeto_pi3).
