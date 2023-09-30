@@ -1,6 +1,6 @@
-#  3º API - 
+#  3º API - DEVSTORE
 
-![logo_projeto]()
+![logo_projeto](https://github.com/Orlandi-a11/PortifolioFatecApi/blob/main/IMG/API_2_logo.jpeg)
 
 ## :briefcase:  Empresa
 IACIT.
@@ -17,14 +17,15 @@ Neste projeto, nós desenvolvemos uma aplicação web abrangente que incluiu um 
 
  ## Contribuições Pessoais: 
  <details>
-<summary> 1 sprint - Monatgem do modelo Logico e conceitual do banco de dados:  </summary>
+<summary> 1 sprint  - Monatgem do modelo Logico e conceitual do banco de dados:  </summary>
 - Auxilio na montagem do banco de dados e inicio de sua aplicação em PGadm;
 
-2° Sprint & 3° Sprint -inicio da montagem do readme e inserção do inicio do projeto no gitlab: 
+2° Sprint & 3° Sprint - Inicio da montagem do readme e inserção do inicio do projeto no gitlab: 
 - Trabalhamos numa montagem de um readme dinamico e o com o maximo de detalhes possiveis para a compreensão dos clientes e demais;
 
 4° Sprint - Montagem de readme separados:
 - Foi criado um readme para cada realização da sprint para evitar excesso de informações no readme principal e possuir mais detalhes do que estava sendo realizado em cada uma das etapas.
+  
 </details>
 
 #### Hard Skills Efetivamente Desenvolvidas
