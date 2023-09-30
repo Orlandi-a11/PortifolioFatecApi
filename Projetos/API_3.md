@@ -46,4 +46,4 @@ Neste projeto, nós desenvolvemos uma aplicação web abrangente que incluiu um 
 
 :chart_with_upwards_trend:  GIT DO PROJETO: 
 
-- 🔗 [GIT](https://gitlab.com/orl22/projeto_pi3).
+- 🔗 [GIT](https://gitlab.com/vitorlimadomingues/3periodo_devstore).
