@@ -8,7 +8,7 @@ Aluna: Orlando Pereira de Seixas Neto
 <img src = "https://github.com/Orlandi-a11/PortifolioFatecApi/blob/main/IMG/ORLANDO_FT.jpg" width= "20%"/>
 <br>Olá e seja muito bem-vindo! Eu sou Orlando Pereira de Seixas Neto, um estudante dedicado de Banco de Dados na FATEC Prof. Jessen Vidal. Atualmente, tenho 21 anos e desempenho o papel de suporte em TI. Minha jornada acadêmica teve início em 2020, quando me matriculei no curso de Banco de Dados na Fatec. Desde então, venho embarcando em uma emocionante jornada de aprendizado na área de Tecnologia, aprimorando minhas habilidades a cada semestre por meio das atividades desafiadoras propostas durante meu curso.
 <div align="center"><br>
-<h2>TECNOLOGIAS UTILIZADAS</h2> 
+<h2>TECNOLOGIAS DESENVOLVIDAS</h2> 
 <div style="display: inline_block"><br>
   <img align="center" alt="alexia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="alexia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
