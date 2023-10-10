@@ -20,7 +20,7 @@ Aluna: Orlando Pereira de Seixas Neto
    
 <h2>:open_file_folder:  PROJETOS</h2> 
 
-:[1º Projeto - Vai de van](https://github.com/Orlandi-a11/PortifolioFatecApi/blob/main/Projetos/API_1.md) 
+[1º Projeto - Vai de van](https://github.com/Orlandi-a11/PortifolioFatecApi/blob/main/Projetos/API_1.md) 
 
 [2º Projeto - Consult CAR](https://github.com/Orlandi-a11/PortifolioFatecApi/blob/main/Projetos/API_2.md)
 
