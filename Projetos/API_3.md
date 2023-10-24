@@ -2,8 +2,8 @@
 
 ![logo_projeto](https://github.com/Orlandi-a11/PortifolioFatecApi/blob/main/IMG/API_2_logo.jpeg)
 
-## :briefcase:  Empresa
-IACIT.
+# :briefcase:  Empresa - IACIT.
+
 
 #### :clipboard: Proposta
 Neste projeto, nós desenvolvemos uma aplicação web abrangente que incluiu um sistema de Planning, permitindo uma criação simples e direta de atividades. Além disso, implementamos um sistema de votação, proporcionando uma maneira eficaz de tomar decisões colaborativas. A aplicação também incluiu uma seção de retrospectiva, onde os usuários podem se cadastrar como Scrum Masters ou entrar como desenvolvedores para conduzir as votações.
