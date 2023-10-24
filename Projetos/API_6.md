@@ -2,8 +2,8 @@
 
 ![logo_projeto](https://github.com/Orlandi-a11/PortifolioFatecApi/blob/main/IMG/TECHVISION.jpeg)
 
-## :briefcase:  Empresa
-VISIONA .
+# :briefcase:  Empresa - Visiona
+
 
 #### :clipboard: Proposta
 Neste projeto, conduzimos uma segmentação avançada para identificar novas necessidades de produtos com base em regiões específicas, ampliando a compreensão da base de clientes através da análise de arquivos no formato *.CSV. Essa aplicação desempenha um papel crucial ao fornecer insights valiosos para orientar as decisões dos gerentes e diretores em relação a estratégias de campanhas e compras de produtos específicos.
