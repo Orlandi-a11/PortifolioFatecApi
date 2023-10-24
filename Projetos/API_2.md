@@ -2,8 +2,8 @@
 
 ![logo_projeto](https://github.com/Orlandi-a11/PortifolioFatecApi/blob/main/IMG/API_2_logo.jpeg)
 
-## :briefcase:  Empresa
-VISIONA.
+# :briefcase:  Empresa - Visiona
+
 
 #### :clipboard: Proposta
 Neste semestre a empresa Visiona nos propos um  projeto de desenvolvimento de API com um objetivo claro: criar um MVP que oferecesse aos clientes uma base de dados completa, confiável e bem organizada, utilizando as informações provenientes do sistema CAR.Para alcançar esse objetivo, empregamos ferramentas do ciclo de aprendizado e adotamos a metodologia SCRUM, que se baseia em entregas ágeis e desenvolvimento iterativo. Ao longo das sprints, nosso trabalho consistiu em adquirir, ler e depurar as informações, culminando na construção e finalização do banco de dados.
