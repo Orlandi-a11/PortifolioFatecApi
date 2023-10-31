@@ -6,8 +6,9 @@ Aluno: Orlando Pereira de Seixas Neto
 <br></div>
 <div align="center"><br>
 <img src = "https://github.com/Orlandi-a11/PortifolioFatecApi/blob/main/IMG/ORLANDO_FT.jpg" width= "20%"/>
-<br>Olá e seja muito bem-vindo! Eu sou Orlando Pereira de Seixas Neto, um estudante dedicado de Banco de Dados na FATEC Prof. Jessen Vidal. Atualmente, tenho 21 anos e desempenho o papel de suporte em TI. Minha jornada acadêmica teve início em 2020, quando me matriculei no curso de Banco de Dados na Fatec. Desde então, venho embarcando em uma jornada de aprendizado na área de Tecnologia, aprimorando minhas habilidades a cada semestre por meio das atividades desafiadoras propostas durante meu curso. 
-Ao decorrer do curso, adquiri diversos conhecimentos em tecnologias, metodologias,com os API´S realizados, tive a oportunidade de colocar em prática os conteúdos estudados em sala de aula e buscar soluções para problemas reais do mercado de trabalho, tendo como clientes empresas reais e parceiras da faculdade.
+<br>Sou Orlando Pereira de Seixas Neto, um estudante dedicado de Banco de Dados na FATEC Prof. Jessen Vidal. Atualmente com 21 anos de idade, desempenho o papel de suporte em Tecnologia da Informação (TI). Iniciei minha jornada acadêmica no ano de 2020, ao ingressar no curso de Banco de Dados na Fatec. Desde então, tenho embarcado em uma contínua trajetória de aprendizado na área de Tecnologia, aprimorando minhas competências a cada semestre, por meio de desafios enriquecedores propostos ao longo do meu curso.
+
+Durante o desenvolvimento do programa acadêmico, adquiri uma ampla gama de conhecimentos em tecnologias e metodologias. Através da realização de projetos de API, tive a oportunidade de aplicar os conceitos estudados em sala de aula, buscando soluções para problemas reais do mercado de trabalho. Além disso, trabalhei em colaboração com empresas parceiras da faculdade, atendendo suas necessidades e demandas, o que contribuiu para minha formação prática e experiência significativa no setor.
 <div align="center"><br>
 
 <div align="center"><br> 
