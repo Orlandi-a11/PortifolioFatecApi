@@ -44,7 +44,7 @@ Ao decorrer do curso, adquiri diversos conhecimentos em tecnologias, metodologia
     </ul></li>
   </ul>
    <div align="left"><br>    
-  <br></br>
+  <br>
  
   
 <div align="center"><br> 
