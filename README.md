@@ -17,23 +17,24 @@ Ao decorrer do curso, adquiri diversos conhecimentos em tecnologias, metodologia
     
   <div align="left"><br> 
   <li>Linguagens de programação:
+  <ul> 
   <br></br>
-  <ul>
-  <li><code>Java</code> na criação de API's (Application Programming Interface) Rest utilizando o Framework <code>SpringBoot</code>;</li>
+  <li><code>Java</code>na criação de API's (Application Programming Interface) Rest utilizando o Framework <code>SpringBoot</code>;</li>
   <li><code>Github</code> Para o registro,explicação e armazenamentos da documentação dos projetos;</li>
   <li><code>Javascript, HTML & CSS</code> na criação de Front-End e parte visual dos projetos e utilizando o Framework <code>Vue.js & React</code>;</li>
   <li><code>SQL</code> para modelagem, criação e manipulação de Banco de Dados <code>Oracle</code>, <code>MySQL</code> e <code>SQL Server</code>.</li>
     </ul></li>
     <br></br>
     <li> Metodologia Ágil (Scrum) - Developer  :
+     <ul>
     <br></br> 
   <li>Criação de readme e documentação dos projetos para a melhor compreensão do que foi realizado;</li>
     <li>Realização de diversas telas e seus respectivos funcionalidades nas aplicações;</li>
     <li>Criação e busca de por metodos efiecinetes e de melhor vizualização do projeto ao cliente;</li>
     <li>Utilização das ferramentas para melhor compreensão de realização de atividade de front  como  <code>PrimeReact</code> , <code>bootstrap</code> e <code>Vue.js</code>.</li> 
     </ul></li>
-     <div align="left"><br> 
-    <br></br>
+    <div align="left"><br> 
+    <br></br>   
     <li> DevOps - Q&A:
     <br></br>
     <ul> 
