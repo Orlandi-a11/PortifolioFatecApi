@@ -1,21 +1,52 @@
-#  3º API - DEVSTORE
+<h1 align="center"> API -  3º Semestre</h1>
+<h2 align="center">:office: EMPRESA - IACIT</h2>
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3 align="center"> 
+ EQUIPE - Devstore
+<h3 align="center"> 
 
 ![logo_projeto](https://github.com/Orlandi-a11/PortifolioFatecApi/blob/main/IMG/API_2_logo.jpeg)
 
-# :briefcase:  Empresa - IACIT.
 
 
-#### :clipboard: Proposta
-Neste projeto, nós desenvolvemos uma aplicação web abrangente que incluiu um sistema de Planning, permitindo uma criação simples e direta de atividades. Além disso, implementamos um sistema de votação, proporcionando uma maneira eficaz de tomar decisões colaborativas. A aplicação também incluiu uma seção de retrospectiva, onde os usuários podem se cadastrar como Scrum Masters ou entrar como desenvolvedores para conduzir as votações.
+# :clipboard: Proposta
+Neste projeto, desenvolvemos uma aplicação web abrangente que oferece uma variedade de recursos para melhorar a colaboração e a eficiência no ambiente de trabalho. A aplicação inclui um sistema de Planning que simplifica a criação direta de atividades, tornando o gerenciamento de tarefas mais eficaz. Além disso, implementamos um sistema de votação, proporcionando uma maneira eficaz de tomar decisões colaborativas, onde os membros da equipe podem expressar suas opiniões e influenciar as decisões do grupo.
 
-#### :desktop_computer: Tecnologias Utilizadas
-- Postgree ( SGBD da aplicação)
-- Java (BACKEND)
-- Javascript (Front-End da aplicação);
-- React (Front-End da aplicação);
-- Gitlab (Repositorio da aplicação);
+A aplicação também conta com uma seção dedicada à retrospectiva, permitindo que os usuários se cadastrem como Scrum Masters ou participem como desenvolvedores. Isso cria um ambiente de aprendizado contínuo e aprimoramento, onde os Scrum Masters podem liderar sessões de retrospectiva e os desenvolvedores podem compartilhar feedback valioso. Esse ciclo de melhoria contínua ajuda as equipes a identificar áreas de aprimoramento e a implementar melhorias de forma ágil.
+Com todos esses recursos integrados em uma única plataforma, nossa aplicação proporciona uma abordagem holística para o gerenciamento de projetos ágeis, melhorando a comunicação, a colaboração e a eficiência da equipe. Ela promove um ambiente de trabalho mais produtivo e capacita as equipes a alcançarem seus objetivos com sucesso.
+<br></br>
+## :desktop_computer: Tecnologias Utilizadas
+<ul>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original-wordmark.svg" width="100"    height="100" />	
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain-wordmark.svg" width="100" height="100" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain-wordmark.svg" width="100" height="100" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain-wordmark.svg" width="100" height="100" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html/html-plain-wordmark.svg" width="100" height="100" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css/css-plain-wordmark.svg" width="100" height="100" />
 
- ## Contribuições Pessoais: 
+
+</ul>
+ <br></br>
+ <a href="https://gitlab.com">Gitlab</a>: Utilizado como repositório de projeto. O GitLab é uma plataforma de gerenciamento de código fonte que permite hospedar, gerenciar e colaborar em projetos de desenvolvimento de software usando o sistema de controle de versão Git.
+<br></br>
+<a href="https://www.postgresql.org">PostgreSQL</a>: Utilizado como Sistema Gerenciador de Banco de Dados (SGBD) do projeto. O PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto que oferece um alto grau de confiabilidade e flexibilidade.
+<br></br>
+<a href="https://www.java.com">Java</a>: Utilizado para montar o backend da aplicação. Java é uma linguagem de programação versátil e amplamente utilizada, conhecida por sua portabilidade e capacidade de criar aplicativos de alta performance.
+<br></br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>: Aplicado para a montagem do front end da aplicação e montagem das telas.É uma linguagem de programação amplamente usada para desenvolver aplicativos web interativos e dinâmicos. Ela é executada no lado do cliente, o que significa que é executada no navegador do usuário, permitindo que os desenvolvedores criem experiências interativas e responsivas nas páginas da web.
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>: HTML foi implementado para a implementação dp front end da aplicação.Esta linguagem de marcação fundamental para a criação de páginas da web. Ela define a estrutura e o conteúdo de uma página, usando elementos para organizar o conteúdo da página, criar links, inserir imagens, formularários e muito mais. O HTML fornece a estrutura básica que os navegadores usam para renderizar o conteúdo da web.
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>: Foi utilizado para a aplicação do design e estruturação do componentes do front end do projeto.É uma linguagem de estilo usada para controlar a apresentação e a formatação de páginas da web. Ela permite que você defina cores, fontes, margens, espaçamentos e outros estilos visuais para elementos HTML. Com o CSS, você pode separar a estrutura (HTML) do estilo (CSS) em um site, o que torna mais fácil e flexível a alteração da aparência de um site sem alterar a estrutura. 
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ ## :dart: Contribuições Pessoais: 
+
 <details>
 <summary> 1° sprint - Monatgem do modelo Logico e conceitual do banco de dados: </summary>
 
@@ -33,21 +64,67 @@ Neste projeto, nós desenvolvemos uma aplicação web abrangente que incluiu um 
   
 </details>
 
-#### Hard Skills Efetivamente Desenvolvidas
-- Gitlab (Sei fazer sem ajuda)
-- Power point (sei fazer sem ajuda)
+
+<br></br>
+
+<h3 align="center"> Hard Skills </h3>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>HTML</td>
+      <td>★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>POSTGREE</td>
+      <td>★★★☆☆</td>
+    </tr>	
+    <tr>
+      <td>JAVA</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>GITLAB</td>
+      <td>★★★★☆</td>
+    </tr>
+     <tr>
+      <td>CSS</td>
+      <td>★☆☆☆☆</td>
+    </tr>
+      <tr>
+      <td>JAVASCRIT</td>
+      <td>★☆☆☆☆</td>
+    </tr>
 
 
-#### Soft Skills Efetivamente Desenvolvidas
-  
-- Trabalho em equipe: Na qual tivemos que desenvolver bastante para esta primeira entrega e compreender o que cada um tem a oferecer ao projeto.
-  
-- Comunicativo: Desenvolvi bastante esta Soft Skills para sanar todas as duvidas ao decorrer do projeto e alem disso a comunicação entre o grupo para imediatamente instruir o grupo do que estava sendo feito e o que se deve melhorar.
 
+  </table>
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ <h3 align="center">Soft Skills</h3>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Descrição</th>
+    </tr>
+    <tr>
+      <td>Organização</td>
+      <td>Tive que desenvolver para a realização da separação de readme e produtos back logs da aplicação.</td>
+    </tr>
+    <tr>
+      <td>Adaptabilidade</td>
+      <td>Precisei aprender a me adaptar as tecnologias em geral em que o sistema foi implementado.</td>
+    </tr>
+    <tr>
+      <td>Criatividade</td>
+      <td>Desenvolvi bastante esta Soft Skills para realizar um readme mais dinamico e rico em informações para a melhor compreensão de todos ao qual fossem vizualizar a aplicação.</td>
+  </table>
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-:chart_with_upwards_trend:  GIT DO PROJETO: 
+<h2 align="center"> GIT DO PROJETO</h2>
 
-- 🔗 [GIT](https://gitlab.com/vitorlimadomingues/3periodo_devstore).
+<h5 align="center"><a href="https://gitlab.com/vitorlimadomingues/3periodo_devstore"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
+</h5>
+
