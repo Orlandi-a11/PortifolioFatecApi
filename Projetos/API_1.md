@@ -1,13 +1,13 @@
 <h1 align="center"> API -  1º Semestre</h1>
 <h2 align="center">:office: EMPRESA - FATEC JESSEN VIDAL</h2>
-<br></br>
-<h1 align="center"> 
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3 align="center"> 
  EQUIPE - Coffend
-<h1 align="center"> 
+<h3 align="center"> 
  
 ![logo_projeto](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/VaideVan_logo.png)
-
-
 
 # :clipboard: Proposta
 Este projeto tinha como objetivo principal a integração eficiente entre motoristas e passageiros, visando aprimorar significativamente a experiência de transporte para ambas as partes. Por meio dessa integração, os motoristas foram capacitados a acessar as informações de todos os passageiros de maneira ágil e prática, permitindo uma gestão mais eficaz de suas rotas e viagens. Além disso, puderam informar aos passageiros o horário previsto de chegada com maior precisão, proporcionando uma experiência mais conveniente e confiável.
@@ -49,8 +49,8 @@ Além disso, o sistema ofereceu a funcionalidade de comunicação por meio de me
 - Realizei os videos ilustrativos da aplicação em funcionamento com explicação para a compreensão melhor de todos e com a aplicação finalizada.
 </details>
 
+<br></br>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="center"> Hard Skills </h3>
   <table align="center">
     <tr>
