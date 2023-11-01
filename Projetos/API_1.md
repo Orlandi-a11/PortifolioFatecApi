@@ -1,15 +1,13 @@
 <h1 align="center"> API -  1º Semestre</h1>
+<h2 align="center">:office: EMPRESA - FATEC JESSEN VIDAL</h2>
+<br></br>
 <h1 align="center"> 
-<a href="https://github.com/Valdineynascimento/projeto_integrador_coffeend"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
-</h1>
-
-<h1 align="center"> 
- EQUIPE - VAI DE VAN
+ EQUIPE - Coffend
 <h1 align="center"> 
  
 ![logo_projeto](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/VaideVan_logo.png)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 # :clipboard: Proposta
 Este projeto tinha como objetivo principal a integração eficiente entre motoristas e passageiros, visando aprimorar significativamente a experiência de transporte para ambas as partes. Por meio dessa integração, os motoristas foram capacitados a acessar as informações de todos os passageiros de maneira ágil e prática, permitindo uma gestão mais eficaz de suas rotas e viagens. Além disso, puderam informar aos passageiros o horário previsto de chegada com maior precisão, proporcionando uma experiência mais conveniente e confiável.
@@ -100,4 +98,16 @@ Além disso, o sistema ofereceu a funcionalidade de comunicação por meio de me
       <td>Precisei organizar e planejar como realizar todas as atividades propostas.</td>
     </tr>
   </table>
+   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h2 align="center"> GIT DO PROJETO</h2>
+
+<h5 align="center"><a href="https://gitlab.com/orl22/projeto_pi3"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
+</h5>
+
+
+
+   
+    
 
