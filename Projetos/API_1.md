@@ -1,20 +1,40 @@
-#  1º API - VAI DE VAN
+<h1 align="center"> API -  1º Semestre</h1>
+<h1 align="center"> 
+<a href="https://github.com/Valdineynascimento/projeto_integrador_coffeend"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
+</h1>
 
+<h1 align="center"> 
+ EQUIPE - VAI DE VAN
+<h1 align="center"> 
+ 
 ![logo_projeto](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/VaideVan_logo.png)
 
-## :briefcase:  Empresa
-Neste semestre não houve empresa parceira e sim a própria fatec proposto pelo professor Fabiano Sabhah.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### :clipboard: Proposta
-Este projeto tinha como objetivo é a integração entre motorista e passageiros para melhora do transporte para ambos,na qual o motorista poderá acessar às informações de todos os passageiros de forma rápida e prática e da mesma forma poderá avisar aos seus usuários o horário previsto de chegada e também, através de mensagens padronizadas, informar de alguns imprevistos e entre outros fatores.
+# :clipboard: Proposta
+Este projeto tinha como objetivo principal a integração eficiente entre motoristas e passageiros, visando aprimorar significativamente a experiência de transporte para ambas as partes. Por meio dessa integração, os motoristas foram capacitados a acessar as informações de todos os passageiros de maneira ágil e prática, permitindo uma gestão mais eficaz de suas rotas e viagens. Além disso, puderam informar aos passageiros o horário previsto de chegada com maior precisão, proporcionando uma experiência mais conveniente e confiável.
 
-#### :desktop_computer: Tecnologias Utilizadas
-- GitHub (Utilizado como repositório de projeto)
-- AppInventor (Utilizada para estruturação e desenvolvimento do código)
-- Firebase (Utilizado para guardar as informações dos passageiros)
-- GoogleMaps (Utilizado para registrar a localização em tempo real dos passageiros)
+Além disso, o sistema ofereceu a funcionalidade de comunicação por meio de mensagens padronizadas, o que permitiu aos motoristas notificar os passageiros sobre possíveis imprevistos, mudanças de rota, atrasos ou qualquer outra informação relevante. Isso contribuiu para uma comunicação mais transparente e eficaz entre as partes envolvidas, aumentando a confiabilidade do serviço de transporte.
+<br></br>
+## :desktop_computer: Tecnologias Utilizadas
+<ul>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" width="100"    height="100" />	
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain-wordmark.svg" width="100" height="100" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" width="100" height="100" />
+</ul>
+ <br></br>
+<a href="https://github.com">GitHub</a>: Utilizado como repositório de projeto,o GitHub foi utilizado como repositório para armazenar todo o código-fonte e recursos do projeto. Isso permitiu o controle de versões, colaboração entre a equipe de desenvolvimento e o acompanhamento de alterações no código ao longo do tempo.
+ <br></br>
+ <a href="https://appinventor.mit.edu">AppInventor</a>: Utilizada para estruturação e desenvolvimento do código, o AppInventor foi a plataforma escolhida para estruturar e desenvolver o código do aplicativo. Ele ofereceu uma interface de arrastar e soltar para a criação de aplicativos Android, permitindo uma prototipagem rápida e eficaz.
+ <br></br>
+ <a href="https://firebase.google.com">Firebase</a>:Utilizado para guardar as informações dos passageiros, Firebase foi adotado para armazenar todas as informações dos passageiros, incluindo detalhes do perfil, histórico de viagens e outras informações relevantes. Ele ofereceu um banco de dados em tempo real e serviços de autenticação para garantir a segurança e a escalabilidade dos dados.
+<br></br>
+<a href="https://www.google.com/maps">Google Maps</a>: Utilizado para registrar a localização em tempo real dos passageiros, o Google Maps desempenhou um papel crucial na captura e exibição da localização em tempo real dos passageiros no aplicativo. Através da integração do Google Maps, foi possível rastrear a localização dos passageiros, calcular rotas e fornecer estimativas de chegada precisas aos motoristas.
 
- ## Contribuições Pessoais: 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ ## :dart: Contribuições Pessoais: 
 
 <details>
 <summary> 1 sprint: Protipação da aplicação: </summary>
@@ -31,22 +51,53 @@ Este projeto tinha como objetivo é a integração entre motorista e passageiros
 - Realizei os videos ilustrativos da aplicação em funcionamento com explicação para a compreensão melhor de todos e com a aplicação finalizada.
 </details>
 
-#### Hard Skills Efetivamente Desenvolvidas
-- App Inventor (Sei fazer com ajuda)
-- Figma: (Sei fazer sem ajuda)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3 align="center"> Hard Skills </h3>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Metodologia Ágil Scrum</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Firebase</td>
+      <td>★☆☆☆☆</td>
+    </tr>	
+    <tr>
+      <td>APPIVENTOR</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>GITHUB</td>
+      <td>★★★☆☆</td>
+    </tr>
+  </table>
 
+ <h3 align="center">Soft Skills</h3>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Descrição</th>
+    </tr>
+    <tr>
+      <td>Trabalho em equipe</td>
+      <td>Na qual tivemos que desenvolver bastante para esta primeira entrega e compreender o que cada um tem a oferecer ao projeto.</td>
+    </tr>
+    <tr>
+      <td>Conhecimento</td>
+      <td>Precisei aprender a utilizar e aplicar a metodologia e para as diversas atividades solicitadas.</td>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>Desenvolvi bastante esta Soft Skills para sanar todas as duvidas ao decorrer do projeto e alem disso a comunicação entre o grupo para imediatamente instruir o grupo do que estava sendo feito e o que se deve melhorar.</td>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>Precisei organizar e planejar como realizar todas as atividades propostas.</td>
+    </tr>
+  </table>
 
-#### Soft Skills Efetivamente Desenvolvidas
-  
-- Trabalho em equipe: Na qual tivemos que desenvolver bastante para esta primeira entrega e compreender o que cada um tem a oferecer ao projeto.
-  
-- Comunicativo: Desenvolvi bastante esta Soft Skills para sanar todas as duvidas ao decorrer do projeto e alem disso a comunicação entre o grupo para imediatamente instruir o grupo do que estava sendo feito e o que se deve melhorar.
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-:chart_with_upwards_trend:  GIT DO PROJETO: 
-
-
-- 🔗 [GIT](https://github.com/Valdineynascimento/projeto_integrador_coffeend).
