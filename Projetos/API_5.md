@@ -39,10 +39,9 @@ Neste projeto, estamos conduzindo uma segmentação avançada que vai muito alé
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>: HTML foi implementado para a implementação dp front end da aplicação.Esta linguagem de marcação fundamental para a criação de páginas da web inplementado no framework VueJS. Ela define a estrutura e o conteúdo de uma página, usando elementos para organizar o conteúdo da página, criar links, inserir imagens, formularários e muito mais. O HTML fornece a estrutura básica que os navegadores usam para renderizar o conteúdo da web.
 <br></br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>: Foi utilizado para a aplicação do design e estruturação do componentes do front end do projeto.É uma linguagem de estilo usada para controlar a apresentação e a formatação de páginas da web. Ela permite que você defina cores, fontes, margens, espaçamentos e outros estilos visuais para elementos HTML. Com o CSS, você pode separar a estrutura (HTML) do estilo (CSS) em um site, o que torna mais fácil e flexível a alteração da aparência de um site sem alterar a estrutura. 
-
+<br></br>
 <a href="https://azure.microsoft.com">Azure</a>: Utilizado para hospedar o banco de dados do sistema de transferência, onde são registradas todas as transações de uma nuvem para outra, garantindo segurança, escalabilidade e rastreabilidade dos dados. O Microsoft Azure é uma plataforma em nuvem confiável e amplamente utilizada que oferece uma ampla gama de serviços de banco de dados para atender às necessidades de armazenamento, recuperação e gerenciamento de dados de aplicativos, proporcionando alta disponibilidade e segurança. É a escolha ideal para empresas que buscam uma infraestrutura robusta e confiável para registrar e controlar as transferências entre nuvens.
-
-
+<br></br>
 <a href="https://vuejs.org">VueJS</a>: Sendo aplicado como um framework de código aberto e uma biblioteca JavaScript utilizada para construir interfaces de usuário interativas e dinâmicas em aplicações web. Ele é frequentemente empregado em projetos para criar componentes reutilizáveis, gerenciar o estado do aplicativo e fornecer uma experiência de usuário rica. Vue.js é conhecido por sua simplicidade e flexibilidade, o que o torna uma escolha popular entre desenvolvedores para o desenvolvimento de aplicações web modernas.
 
 
