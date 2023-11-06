@@ -43,7 +43,7 @@ Neste projeto, estamos conduzindo uma segmentação avançada que vai muito alé
 <a href="https://azure.microsoft.com">Azure</a>: Utilizado para hospedar o banco de dados do sistema de transferência, onde são registradas todas as transações de uma nuvem para outra, garantindo segurança, escalabilidade e rastreabilidade dos dados. O Microsoft Azure é uma plataforma em nuvem confiável e amplamente utilizada que oferece uma ampla gama de serviços de banco de dados para atender às necessidades de armazenamento, recuperação e gerenciamento de dados de aplicativos, proporcionando alta disponibilidade e segurança. É a escolha ideal para empresas que buscam uma infraestrutura robusta e confiável para registrar e controlar as transferências entre nuvens.
 <br></br>
 <a href="https://vuejs.org">VueJS</a>: Sendo aplicado como um framework de código aberto e uma biblioteca JavaScript utilizada para construir interfaces de usuário interativas e dinâmicas em aplicações web. Ele é frequentemente empregado em projetos para criar componentes reutilizáveis, gerenciar o estado do aplicativo e fornecer uma experiência de usuário rica. Vue.js é conhecido por sua simplicidade e flexibilidade, o que o torna uma escolha popular entre desenvolvedores para o desenvolvimento de aplicações web modernas.
-
+<br></br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
