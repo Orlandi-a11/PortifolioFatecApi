@@ -137,6 +137,12 @@ Nesta Sprint foi aplicado o Devops na aplicação realizando topicos importantes
 
 E aplicamos neste projeto nove topicos importantes para cada um abordando um parte em questão da aplicação ,sendo elas: Issue Tracking, Branch Versioning, Migration Database, Continuous Integration, Unit Tests,Quality Assurance, Docker Deploy,Application Health Monitoring (Grafana) e Development Documentation.
 
+Num breve resumo cada um foi aplicado da seguinte forma :
+
+<details>
+<summary> Issue:  </summary>
+</details>
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2 align="center"> GIT DO PROJETO</h2>
