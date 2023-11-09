@@ -129,6 +129,14 @@ Neste projeto, estamos conduzindo uma segmentação avançada que vai muito alé
       <td>Realização das tasks de forma harmoniosa e produtiva em equipe, contribuindo com ideias e apoiando os colegas.</td>
   </table>
 
+
+<br></br>
+<h1 align="center"> Devops</h1>
+
+Nesta Sprint foi aplicado o Devops na aplicação realizando topicos importantes para cada topico em nossa aplicação e aprimorar a eficiência operacional e a entrega de software. O DevOps, uma fusão entre desenvolvimento e operações, introduziu uma abordagem inovadora para superar desafios comuns no ciclo de vida do desenvolvimento de software.
+
+E aplicamos neste projeto nove topicos importantes para cada um abordando um parte em questão da aplicação ,sendo elas : Issue Tracking, Branch Versioning, Migration Database, Continuous Integration, Unit Tests,Quality Assurance, Docker Deploy,Application Health Monitoring (Grafana) e Development Documentation.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2 align="center"> GIT DO PROJETO</h2>
