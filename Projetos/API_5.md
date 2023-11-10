@@ -140,7 +140,9 @@ E aplicamos neste projeto nove topicos importantes para cada um abordando um par
 Num breve resumo cada um foi aplicado da seguinte forma :
 
 <details>
-<summary> Issue: Em conformidade com a política de "Rastreamento de Problemas" com rastreamento bidirecional, os desenvolvedores são obrigados a aplicar essa regra a todas as confirmações feitas no projeto. O Rastreamento de Problemas, um processo vital no desenvolvimento de software, envolve gravação, gerenciamento e rastreamento de vários problemas, como bugs, solicitações de recursos, aprimoramentos e tarefas. O objetivo principal é fornecer uma estrutura estruturada para organizar e priorizar essas questões, garantindo um acompanhamento e resolução eficientes por parte da equipe do projeto. Este sistema  também promove a comunicação entre os membros da equipe, permitindo comentários, notificações e atualizações de status sobre questões específicas, promovendo a resolução colaborativa de problemas e o compartilhamento efetivo de informações dentro da equipe.
+<summary> Issue: 
+ 
+ Em conformidade com a política de "Rastreamento de Problemas" com rastreamento bidirecional, os desenvolvedores são obrigados a aplicar essa regra a todas as confirmações feitas no projeto. O Rastreamento de Problemas, um processo vital no desenvolvimento de software, envolve gravação, gerenciamento e rastreamento de vários problemas, como bugs, solicitações de recursos, aprimoramentos e tarefas. O objetivo principal é fornecer uma estrutura estruturada para organizar e priorizar essas questões, garantindo um acompanhamento e resolução eficientes por parte da equipe do projeto. Este sistema  também promove a comunicação entre os membros da equipe, permitindo comentários, notificações e atualizações de status sobre questões específicas, promovendo a resolução colaborativa de problemas e o compartilhamento efetivo de informações dentro da equipe.</summary>
 
 
 
