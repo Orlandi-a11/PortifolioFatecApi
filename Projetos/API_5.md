@@ -137,25 +137,27 @@ Nesta Sprint foi aplicado o Devops na aplicação realizando topicos importantes
 
 E aplicamos neste projeto nove topicos importantes para cada um abordando um parte em questão da aplicação ,sendo elas: Issue Tracking, Branch Versioning, Migration Database, Continuous Integration, Unit Tests,Quality Assurance, Docker Deploy,Application Health Monitoring (Grafana) e Development Documentation.
 
-Num breve resumo cada um foi aplicado da seguinte forma :
-
 <details>
-<summary> Issue: 
- 
- Em conformidade com a política de "Rastreamento de Problemas" com rastreamento bidirecional, os desenvolvedores são obrigados a aplicar essa regra a todas as confirmações feitas no projeto. O Rastreamento de Problemas, um processo vital no desenvolvimento de software, envolve gravação, gerenciamento e rastreamento de vários problemas, como bugs, solicitações de recursos, aprimoramentos e tarefas. O objetivo principal é fornecer uma estrutura estruturada para organizar e priorizar essas questões, garantindo um acompanhamento e resolução eficientes por parte da equipe do projeto. Este sistema  também promove a comunicação entre os membros da equipe, permitindo comentários, notificações e atualizações de status sobre questões específicas, promovendo a resolução colaborativa de problemas e o compartilhamento efetivo de informações dentro da equipe.</summary>
-
-
-
-
-
-
-
-
-
-
-
-
-
+<summary>Num breve resumo cada um foi aplicado da seguinte forma : </summary>
+<br></br>
+Issue:  Em conformidade com a política de "Rastreamento de Problemas" com rastreamento bidirecional, os desenvolvedores são obrigados a aplicar essa regra a todas as confirmações feitas no projeto. O Rastreamento de Problemas, um processo vital no desenvolvimento de software, envolve gravação, gerenciamento e rastreamento de vários problemas, como bugs, solicitações de recursos, aprimoramentos e tarefas.
+<br></br>
+Branch Version: GitHub simplifica o gerenciamento de versões em projetos. A branch principal, estável e testada, só aceita merges da branch de desenvolvimento após revisão por duas pessoas. A branch de desenvolvimento, criada da principal, recebe features que, após desenvolvimento e revisão, são mergeadas de volta na principal. As branches de funcionalidade, criadas da de desenvolvimento, focam em uma única feature, sendo mergeadas após revisão. Essa organização eficiente e práticas de revisão garantem código de alta qualidade e evitam conflitos. Utilizo essa abordagem no GitHub para manter meu portfólio de projetos organizado e colaborativo.
+<br></br>
+Migration Database: A migração de dados em bancos de dados é um processo vital no desenvolvimento de software. Essa prática envolve transferir dados entre diferentes estruturas, garantindo integridade e consistência. A documentação é essencial para o sucesso da migração, abrangendo estratégias, mapeamento de dados, regras de validação e processos de extração e carregamento. Testes rigorosos e um plano de reversão em caso de falhas são fundamentais. A documentação também cobre o tratamento de erros, considerações de segurança e conformidade. Após a migração, são necessárias tarefas adicionais, como atualizações de conexões e notificação das partes interessadas.
+<br></br>
+Continuos Integrations (CI): A prática de integração contínua envolve automatizar a fusão de alterações de código de vários contribuidores em um único projeto de software, sendo uma prática fundamental em DevOps. Utilizamos o GitHub Actions para configurar nossos fluxos de CI (Integração Contínua), criando workflows distintos para o front-end e o back-end. O workflow "Python application" é acionado por eventos de push e pull requests em qualquer branch, executando em um sistema operacional Ubuntu. As etapas do job incluem verificar o código-fonte, configurar o ambiente Python, instalar dependências, realizar linting com flake8, ordenar imports com isort e, idealmente, executar testes com pytest. Essas configurações garantem a qualidade e correção da aplicação Python durante o processo de CI, melhorando a confiabilidade e estabilidade do software desenvolvido.
+<br></br>
+Unit Test: O teste unitário é uma prática que se concentra em testar unidades individuais de código isoladamente, como funções ou classes. No projeto, utilizamos o GitHub Actions para configurar dois fluxos de Integração Contínua (CI) no front-end e back-end, garantindo a validação prévia antes da fusão de código. As configurações incluem a organização de arquivos de teste, uso do pytest, bibliotecas como unittest.mock, e marcação de testes com marcadores específicos. Os casos de teste abrangem diversos cenários para verificar a correta execução do código e o tratamento adequado de situações especiais. A estrutura de classe de teste, uso de fixtures e mocks, além da simulação de comportamentos específicos, são essenciais para assegurar a qualidade do código durante o processo de CI.
+<br></br>
+Quality Assurance(Q&A): Nesta parte do projeto analisamos possíveis vulnerabilidades e erros, seguindo a política de rastreamento bidirecional. Os desenvolvedores devem aplicar essas diretrizes em todos os commits no projeto. A Garantia de Qualidade, traduzida como "Quality Assurance" (QA), refere-se a uma função que assegura a qualidade no desenvolvimento de produtos ou serviços, verificando o cumprimento de critérios específicos ao longo dos processos operacionais.Para realizar essa análise, utilizamos a ferramenta SonarCloud, um serviço em nuvem integrado aos repositórios de código no GitHub. O SonarCloud identifica bugs, "code smells" (indicações de possíveis problemas no código) e vulnerabilidades, apresentando os resultados em um painel. Esse painel permite a ordenação e filtragem dos resultados, proporcionando uma visão clara do estado e qualidade do código.
+<br></br>
+Docker Deploy: Deploy é tornar a aplicação disponível, e o Docker facilita esse processo usando containers. Com ele, cria-se imagens que incluem tudo necessário, como dependências. O Docker Compose constrói e configura múltiplos containers simultaneamente através de um arquivo de configuração. Pode ser usado em diversos ambientes, e variáveis de ambiente, como FLASKR_BACK_DEV_DIR, são configuradas em arquivos como o .env. O DockerFile é um arquivo de configuração para instruções na criação de containers, permitindo download de arquivos, instalação de pacotes, entre outros. O DockerIgnore exclui diretórios ou arquivos desnecessários no contexto de construção.
+<br></br>
+Application Health Monitoring (Grafana): O Grafana, plataforma de código aberto, é utilizado para visualização, monitoramento e análise de dados. Ele cria dashboards personalizáveis conectando-se a diversas fontes, como Azure e Microsoft SQL Server. No Azure, o Grafana acessa métricas relevantes, enquanto no SQL Server coleta informações sobre a saúde da aplicação, como uso de CPU e memória. Essa integração com o Azure oferece benefícios em escalabilidade, segurança e confiabilidade. O Grafana, ao consumir dados dessas fontes, fornece dashboards personalizados em tempo real, permitindo monitorar métricas vitais e otimizar o desempenho da aplicação. Essa combinação de Grafana, Azure e SQL Server proporciona uma solução completa para monitorar e aprimorar a saúde da aplicação, possibilitando análise de dados em tempo real e tomadas de decisão eficazes
+<br></br>
+Development Documentation: 
+Durante o processo de desenvolvimento, seguimos diretrizes para garantir implementações de qualidade no projeto, detalhadas na montangem de nossa "Wiki". Inicialmente, definimos "Issues" e as desdobramos em tarefas, seguindo o padrão GitFlow para implementar as funcionalidades. Após a entrega, o processo de CI, testes e QA é realizado.
 </summary>
 </details>
 
