@@ -131,7 +131,7 @@ Neste projeto, estamos conduzindo uma segmentação avançada que vai muito alé
 
 
 <br></br>
-<h1 align="center"> Devops</h1>
+<h1 align="center">:part_alternation_mark: Devops</h1>
 
 Nesta Sprint foi aplicado o Devops na aplicação realizando topicos importantes para cada topico em nossa aplicação e aprimorar a eficiência operacional e a entrega de software. O DevOps, uma fusão entre desenvolvimento e operações, introduziu uma abordagem inovadora para superar desafios comuns no ciclo de vida do desenvolvimento de software.
 
