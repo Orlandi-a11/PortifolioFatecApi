@@ -10,7 +10,7 @@
 ![logo_projeto](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/VaideVan_logo.png)
 
 # :clipboard: Proposta
-Este projeto tinha como objetivo principal a integração eficiente entre motoristas e passageiros, visando aprimorar significativamente a experiência de transporte para ambas as partes. Por meio dessa integração, os motoristas foram capacitados a acessar as informações de todos os passageiros de maneira ágil e prática, permitindo uma gestão mais eficaz de suas rotas e viagens. Além disso, puderam informar aos passageiros o horário previsto de chegada com maior precisão, proporcionando uma experiência mais conveniente e confiável.
+Este projeto tem como objetivo principal a integração eficiente entre motoristas e passageiros, visando aprimorar significativamente a experiência de transporte para ambas as partes. Por meio dessa integração, os motoristas foram capacitados a acessar as informações de todos os passageiros de maneira ágil e prática, permitindo uma gestão mais eficaz de suas rotas e viagens. Além disso,informar aos passageiros o horário previsto de chegada com maior precisão, proporcionando uma experiência mais conveniente e confiável.
 
 Além disso, o sistema ofereceu a funcionalidade de comunicação por meio de mensagens padronizadas, o que permitiu aos motoristas notificar os passageiros sobre possíveis imprevistos, mudanças de rota, atrasos ou qualquer outra informação relevante. Isso contribuiu para uma comunicação mais transparente e eficaz entre as partes envolvidas, aumentando a confiabilidade do serviço de transporte.
 <br></br>
@@ -21,13 +21,13 @@ Além disso, o sistema ofereceu a funcionalidade de comunicação por meio de me
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" width="100" height="100" />
 </ul>
  <br></br>
-<a href="https://github.com">GitHub</a>: Utilizado como repositório de projeto,o GitHub foi utilizado como repositório para armazenar todo o código-fonte e recursos do projeto. Isso permitiu o controle de versões, colaboração entre a equipe de desenvolvimento e o acompanhamento de alterações no código ao longo do tempo.
+<a href="https://github.com">GitHub</a>: utilizado como repositório de projeto,para armazenar todo o código-fonte e recursos do projeto. Isso permitiu o controle de versões, colaboração entre a equipe de desenvolvimento e o acompanhamento de alterações no código ao longo do tempo.
  <br></br>
- <a href="https://appinventor.mit.edu">AppInventor</a>: Utilizada para estruturação e desenvolvimento do código, o AppInventor foi a plataforma escolhida para estruturar e desenvolver o código do aplicativo. Ele ofereceu uma interface de arrastar e soltar para a criação de aplicativos Android, permitindo uma prototipagem rápida e eficaz.
+ <a href="https://appinventor.mit.edu">AppInventor</a>: utilizada para estruturação e desenvolvimento do código do aplicativo.Ofereceu uma interface de arrastar e soltar para a criação de aplicativos Android, permitindo uma prototipagem rápida e eficaz.
  <br></br>
- <a href="https://firebase.google.com">Firebase</a>:Utilizado para guardar as informações dos passageiros, Firebase foi adotado para armazenar todas as informações dos passageiros, incluindo detalhes do perfil, histórico de viagens e outras informações relevantes. Ele ofereceu um banco de dados em tempo real e serviços de autenticação para garantir a segurança e a escalabilidade dos dados.
+ <a href="https://firebase.google.com">Firebase</a>: utilizado para armazenar as informações dos passageiros,incluindo detalhes do perfil, histórico de viagens e outras informações relevantes.Ofereceu um banco de dados em tempo real e serviços de autenticação para garantir a segurança e a escalabilidade dos dados.
 <br></br>
-<a href="https://www.google.com/maps">Google Maps</a>: Utilizado para registrar a localização em tempo real dos passageiros, o Google Maps desempenhou um papel crucial na captura e exibição da localização em tempo real dos passageiros no aplicativo. Através da integração do Google Maps, foi possível rastrear a localização dos passageiros, calcular rotas e fornecer estimativas de chegada precisas aos motoristas.
+<a href="https://www.google.com/maps">Google Maps</a>: utilizado para registrar a localização em tempo real dos passageiros, o Google Maps desempenhou um papel crucial na captura e exibição da localização em tempo real dos passageiros no aplicativo e possibilitou rastrear a localização dos passageiros, calcular rotas e fornecer estimativas de chegada precisas aos motoristas.
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -82,20 +82,17 @@ Além disso, o sistema ofereceu a funcionalidade de comunicação por meio de me
       <th width="300px">Descrição</th>
     </tr>
     <tr>
-      <td>Trabalho em equipe</td>
-      <td>Na qual tivemos que desenvolver bastante para esta primeira entrega e compreender o que cada um tem a oferecer ao projeto.</td>
-    </tr>
     <tr>
       <td>Conhecimento</td>
-      <td>Precisei aprender a utilizar e aplicar a metodologia e para as diversas atividades solicitadas.</td>
+      <td>Precisei aprender a utilizar e aplicar a metodologia scrum para as atividades solicitadas.</td>
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>Desenvolvi bastante esta Soft Skills para sanar todas as duvidas ao decorrer do projeto e alem disso a comunicação entre o grupo para imediatamente instruir o grupo do que estava sendo feito e o que se deve melhorar.</td>
+      <td>Desenvolvi para sanar todas as duvidas decorrer do projeto e a comunicação entre o grupo para imediatamente instruir o grupo do que estava sendo feito e o que se deve melhorar.</td>
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>Precisei organizar e planejar como realizar todas as atividades propostas.</td>
+      <td> Organizei e planejei como realizar todas as atividades propostas.</td>
     </tr>
   </table>
    
