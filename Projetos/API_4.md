@@ -12,7 +12,7 @@
 
 
 # :clipboard: Proposta
-Neste projeto, realizamos uma segmentação avançada com o objetivo de identificar novas necessidades de produtos em regiões específicas. Essa abordagem visa aprofundar a compreensão da nossa base de clientes por meio da análise de dados contidos em arquivos no formato *.CSV. A aplicação desempenha um papel fundamental ao fornecer insights de grande valor, os quais desempenham um papel crítico na orientação das decisões dos gerentes e diretores em relação às estratégias de campanhas e compras de produtos específicos. Esses insights são essenciais para aprimorar nossa capacidade de atender às demandas do mercado de forma mais eficiente e precisa, garantindo que nossas estratégias de negócios estejam alinhadas com as necessidades em constante evolução de nossos clientes e regiões específicas.
+Neste projeto, propôs o desenvolvimento de um seguimento avançado com o objetivo de identificar novas necessidades de produtos em regiões específicas. Essa abordagem consistiu em aprofundar a compreensão da nossa base de clientes por meio da análise de dados contidos em arquivos no formato *.CSV. A aplicação desempenhou um papel fundamental ao fornecer insights de grande valor, os quais desempenharam um papel crítico na orientação das decisões dos gerentes e diretores em relação às estratégias de campanhas e compras de produtos específicos. Esses insights são essenciais para aprimorar nossa capacidade de atender às demandas do mercado de forma mais eficiente e precisa, garantindo que nossas estratégias de negócios estejam alinhadas com as necessidades em constante evolução de nossos clientes e regiões específicas.
 
 ## :desktop_computer: Tecnologias Utilizadas
 <ul>
@@ -30,18 +30,17 @@ Neste projeto, realizamos uma segmentação avançada com o objetivo de identifi
 
 </ul>
  <br></br>
- <a href="https://gitlab.com">Gitlab</a>: Utilizado como repositório de projeto. O GitLab é uma plataforma de gerenciamento de código fonte que permite hospedar, gerenciar e colaborar em projetos de desenvolvimento de software usando o sistema de controle de versão Git.
+ <a href="https://gitlab.com">Gitlab</a>: Esta plataforma foi  Utilizada como repositório de projeto, o GitLab é uma plataforma de gerenciamento de código fonte que permite hospedar, gerenciar e colaborar em projetos de desenvolvimento de software usando o sistema de controle de versão Git.
 <br></br>
-<a href="https://www.oracle.com/br/">Oracle</a>: Utilizado como Sistema Gerenciador de Banco de Dados (SGBD) do projeto. O Oracle  é um sistema de gerenciamento de banco de dados relacional de código aberto que oferece um alto grau de confiabilidade e flexibilidade.
+<a href="https://www.oracle.com/br/">Oracle</a>: O Oracle  é um sistema de gerenciamento de banco de dados relacional de código aberto que oferece um alto grau de confiabilidade e flexibilidade e foi  Utilizado como Sistema Gerenciador de Banco de Dados (SGBD) do projeto.
 <br></br>
-<a href="https://www.java.com">Java</a>: Utilizado para montar o backend da aplicação. Java é uma linguagem de programação versátil e amplamente utilizada, conhecida por sua portabilidade e capacidade de criar aplicativos de alta performance.
+<a href="https://www.java.com">Java</a>: Java é uma linguagem de programação versátil e amplamente utilizada, conhecida por sua portabilidade e capacidade de criar aplicativos de alta performance e foi utilizada para montar o backend da aplicação. 
 <br></br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>: Aplicado para a montagem do front end da aplicação e montagem das telas inserida na tela de .É uma linguagem de programação amplamente usada para desenvolver aplicativos web interativos e dinâmicos. Ela é executada no lado do cliente, o que significa que é executada no navegador do usuário, permitindo que os desenvolvedores criem experiências interativas e responsivas nas páginas da web.
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>: É uma linguagem de programação amplamente usada para desenvolver aplicativos web interativos e dinâmicos. Ela é executada no lado do cliente, o que significa que é executada no navegador do usuário, permitindo que os desenvolvedores criem experiências interativas e responsivas nas páginas da web e e  Aplicada para a montagem do front end da aplicação e montagem das telas inserida no sistema.
 <br></br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>: HTML foi implementado para a implementação dp front end da aplicação.Esta linguagem de marcação fundamental para a criação de páginas da web inplementado no framework VueJS. Ela define a estrutura e o conteúdo de uma página, usando elementos para organizar o conteúdo da página, criar links, inserir imagens, formularários e muito mais. O HTML fornece a estrutura básica que os navegadores usam para renderizar o conteúdo da web.
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>:  Ela define a estrutura e o conteúdo de uma página, usando elementos para organizar o conteúdo da página, criar links, inserir imagens, formularários e muito mais. O HTML fornece a estrutura básica que os navegadores usam para renderizar o conteúdo da web e foi  implementado para a implementação da front end da aplicação.Esta linguagem de marcação fundamental para a criação de páginas da web inplementado no framework VueJS e fornece toda as tags,estruturas e atributos da aplicação. 
 <br></br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>: Foi utilizado para a aplicação do design e estruturação do componentes do front end do projeto.É uma linguagem de estilo usada para controlar a apresentação e a formatação de páginas da web. Ela permite que você defina cores, fontes, margens, espaçamentos e outros estilos visuais para elementos HTML. Com o CSS, você pode separar a estrutura (HTML) do estilo (CSS) em um site, o que torna mais fácil e flexível a alteração da aparência de um site sem alterar a estrutura. 
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>: Ela permite que você defina cores, fontes, margens, espaçamentos e outros estilos visuais para elementos HTML. Com o CSS, você pode separar a estrutura (HTML) do estilo (CSS) em um site, o que torna mais fácil e flexível a alteração da aparência de um site sem alterar a estrutura e e foi utilizada para a aplicação do design e estruturação do componentes do front end do projeto.
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -121,11 +120,11 @@ Neste projeto, realizamos uma segmentação avançada com o objetivo de identifi
     </tr>
     <tr>
       <td>Resiliência</td>
-      <td>Lidar com desafios e adversidades e as dificuldades de compreensão para auxilio das atividades principalmente para configurações de Banco, adaptando-se às mudanças e mantendo o foco no objetivo.</td>
+      <td>Lidei com desafios e adversidades e as dificuldades de compreensão para auxilio das atividades principalmente para configurações de Banco, adaptando-me às mudanças e mantendo o foco no objetivo.</td>
     </tr>
     <tr>
       <td>Colaboração</td>
-      <td>Realização das tasks de forma harmoniosa e produtiva em equipe, contribuindo com ideias e apoiando os colegas.</td>
+      <td>Realizei tasks de forma harmoniosa e produtiva em equipe, contribuindo com ideias e apoiando os colegas.</td>
   </table>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
