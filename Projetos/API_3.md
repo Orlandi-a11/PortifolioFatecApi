@@ -12,10 +12,10 @@
 
 
 # :clipboard: Proposta
-Neste projeto, desenvolvemos uma aplicação web abrangente que oferece uma variedade de recursos para melhorar a colaboração e a eficiência no ambiente de trabalho. A aplicação inclui um sistema de Planning que simplifica a criação direta de atividades, tornando o gerenciamento de tarefas mais eficaz. Além disso, implementamos um sistema de votação, proporcionando uma maneira eficaz de tomar decisões colaborativas, onde os membros da equipe podem expressar suas opiniões e influenciar as decisões do grupo.
+Neste projeto propôs-se o desenvolvimento de uma aplicação web abrangente que oferecesse uma variedade de recursos para melhorar a colaboração e a eficiência no ambiente de trabalho. A aplicação inclui um sistema de Planning que simplifica a criação direta de atividades, tornando o gerenciamento de tarefas mais eficaz. Além disso, implementou-se um sistema de votação, proporcionando uma maneira eficaz de tomar decisões colaborativas, onde os membros da equipe podem expressar suas opiniões e influenciar as decisões do grupo.
 
-A aplicação também conta com uma seção dedicada à retrospectiva, permitindo que os usuários se cadastrem como Scrum Masters ou participem como desenvolvedores. Isso cria um ambiente de aprendizado contínuo e aprimoramento, onde os Scrum Masters podem liderar sessões de retrospectiva e os desenvolvedores podem compartilhar feedback valioso. Esse ciclo de melhoria contínua ajuda as equipes a identificar áreas de aprimoramento e a implementar melhorias de forma ágil.
-Com todos esses recursos integrados em uma única plataforma, nossa aplicação proporciona uma abordagem holística para o gerenciamento de projetos ágeis, melhorando a comunicação, a colaboração e a eficiência da equipe. Ela promove um ambiente de trabalho mais produtivo e capacita as equipes a alcançarem seus objetivos com sucesso.
+A aplicação também contou com uma seção dedicada à retrospectiva, permitindo que os usuários se cadastrem como Scrum Masters ou participem como desenvolvedores. Isso criou um ambiente de aprendizado contínuo e aprimoramento, onde os Scrum Masters puderam liderar sessões de retrospectiva e os desenvolvedores puderam compartilhar feedback valioso. Esse ciclo de melhoria contínua ajudou as equipes a identificarem áreas de aprimoramento e a implementaram melhorias de forma ágil.
+Com todos esses recursos integrados em uma única plataforma, proporcionou uma abordagem holística para o gerenciamento de projetos ágeis, melhorando a comunicação, a colaboração e a eficiência da equipe.Promovendo um ambiente de trabalho mais produtivo e capacita as equipes a alcançarem seus objetivos com sucesso.
 <br></br>
 ## :desktop_computer: Tecnologias Utilizadas
 <ul>
@@ -30,17 +30,17 @@ Com todos esses recursos integrados em uma única plataforma, nossa aplicação 
 
 </ul>
  <br></br>
- <a href="https://gitlab.com">Gitlab</a>: Utilizado como repositório de projeto. O GitLab é uma plataforma de gerenciamento de código fonte que permite hospedar, gerenciar e colaborar em projetos de desenvolvimento de software usando o sistema de controle de versão Git.
+ <a href="https://gitlab.com">Gitlab</a>: Esta Plataforma foi utilizada como repositório de projeto. O GitLab é uma plataforma de gerenciamento de código fonte que permite hospedar, gerenciar e colaborar em projetos de desenvolvimento de software usando o sistema de controle de versão Git.
 <br></br>
-<a href="https://www.postgresql.org">PostgreSQL</a>: Utilizado como Sistema Gerenciador de Banco de Dados (SGBD) do projeto. O PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto que oferece um alto grau de confiabilidade e flexibilidade.
+<a href="https://www.postgresql.org">PostgreSQL</a>: O PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto que oferece um alto grau de confiabilidade e flexibilidade e foi utilizado como Sistema Gerenciador de Banco de Dados (SGBD) do projeto.
 <br></br>
-<a href="https://www.java.com">Java</a>: Utilizado para montar o backend da aplicação. Java é uma linguagem de programação versátil e amplamente utilizada, conhecida por sua portabilidade e capacidade de criar aplicativos de alta performance.
+<a href="https://www.java.com">Java</a>:  Java é uma linguagem de programação versátil e amplamente utilizada, conhecida por sua portabilidade e capacidade de criar aplicativos de alta performance e foi utilizado para construir o backend da aplicação. 
 <br></br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>: Aplicado para a montagem do front end da aplicação e montagem das telas.É uma linguagem de programação amplamente usada para desenvolver aplicativos web interativos e dinâmicos. Ela é executada no lado do cliente, o que significa que é executada no navegador do usuário, permitindo que os desenvolvedores criem experiências interativas e responsivas nas páginas da web.
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>: É uma linguagem de programação amplamente usada para desenvolver aplicativos web interativos e dinâmicos. Ela é executada no lado do cliente, o que significa que é executada no navegador do usuário, permitindo que os desenvolvedores criem experiências interativas e responsivas nas páginas da web e e foi  aplicada para a montagem do front end da aplicação e montagem das telas.
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>: HTML foi implementado para a implementação dp front end da aplicação.Esta linguagem de marcação fundamental para a criação de páginas da web. Ela define a estrutura e o conteúdo de uma página, usando elementos para organizar o conteúdo da página, criar links, inserir imagens, formularários e muito mais. O HTML fornece a estrutura básica que os navegadores usam para renderizar o conteúdo da web.
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>: Ela define a estrutura e o conteúdo de uma página, usando elementos para organizar o conteúdo da página, criar links, inserir imagens, formularários e muito mais. O HTML fornece a estrutura básica que os navegadores usam para renderizar o conteúdo da web e e foi implementado para a implementação dp front end da aplicação.Esta linguagem de marcação fundamental para a criação de páginas da web.
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>: Foi utilizado para a aplicação do design e estruturação do componentes do front end do projeto.É uma linguagem de estilo usada para controlar a apresentação e a formatação de páginas da web. Ela permite que você defina cores, fontes, margens, espaçamentos e outros estilos visuais para elementos HTML. Com o CSS, você pode separar a estrutura (HTML) do estilo (CSS) em um site, o que torna mais fácil e flexível a alteração da aparência de um site sem alterar a estrutura. 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>: É uma linguagem de estilo usada para controlar a apresentação e a formatação de páginas da web. Permite que seja definida cores, fontes, margens, espaçamentos e outros estilos visuais para elementos HTML. Tambem  separa a estrutura (HTML) do estilo (CSS) em um site, o que torna mais fácil e flexível a alteração da aparência de um site sem alterar a estrutura e e foi  utilizada para a aplicação do design e estruturação do componentes do front end do projeto.
 
 
 
@@ -111,15 +111,15 @@ Com todos esses recursos integrados em uma única plataforma, nossa aplicação 
     </tr>
     <tr>
       <td>Organização</td>
-      <td>Tive que desenvolver para a realização da separação de readme e produtos back logs da aplicação.</td>
+      <td> Desenvolvi para a realização da separação de readme e produtos back logs da aplicação.</td>
     </tr>
     <tr>
       <td>Adaptabilidade</td>
-      <td>Precisei aprender a me adaptar as tecnologias em geral em que o sistema foi implementado.</td>
+      <td> Aprendi para me adaptar as tecnologias em geral em que o sistema foi implementado.</td>
     </tr>
     <tr>
       <td>Criatividade</td>
-      <td>Desenvolvi bastante esta Soft Skills para realizar um readme mais dinamico e rico em informações para a melhor compreensão de todos ao qual fossem vizualizar a aplicação.</td>
+      <td>Desenvolvi para realizar um readme mais dinamico e rico em informações para a melhor compreensão de todos ao qual fossem vizualizar a aplicação.</td>
   </table>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
