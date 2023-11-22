@@ -25,27 +25,26 @@ Em resumo, nosso sistema oferece uma plataforma abrangente e interativa para a g
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" width="100"    height="100" />	
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-plain-wordmark.svg" width="100" height="100" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="100" height="100" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="100" height="100" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="100" height="100" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/React/React-original.svg" width="100" height="100" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="100" height="100" />
+<img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/React-icon.svg.png" width="100" height="100" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" width="100"    height="100" />	 
+ <img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/Mongodb-PNG-Image-HD.png" width="100"    height="100"/>
 
 </ul>
  <br></br>
- <a href="https://github.com">Github</a>: Utilizado como repositório de projeto. O Github é uma plataforma de gerenciamento de código fonte que permite hospedar, gerenciar e colaborar em projetos de desenvolvimento de software usando o sistema de controle de versão Git.
+ <a href="https://github.com">Github</a>: Esta plataforma foi  Utilizada como repositório de projeto. O Github é uma plataforma de gerenciamento de código fonte que permite hospedar, gerenciar e colaborar em projetos de desenvolvimento de software usando o sistema de controle de versão Git.
 <br></br>
-<a href="https://www.oracle.com/br/">Azure</a>: Utilizado como Sistema Gerenciador de Banco de Dados (SGBD) do projeto. O Oracle  é um sistema de gerenciamento de banco de dados relacional de código aberto que oferece um alto grau de confiabilidade e flexibilidade.
+<a href="https://www.mysql.com/">MySQL</a>: É um sistema de gerenciamento de banco de dados (SGBD) relacional, ou seja, que utiliza a linguagem SQL como interface. Lançado sobre a licença GPL, possui como desenvolvedor a Oracle Corporation e foi utilizado como Sistema Gerenciador de Banco de Dados (SGBD) do projeto.
 <br></br>
-<a href="https://www.python.org">Python</a>: Utilizado para montar o backend da aplicação.Python é uma linguagem de programação versátil e amplamente utilizada, conhecida por sua simplicidade, legibilidade e capacidade de criar aplicativos eficientes. É uma escolha popular para o desenvolvimento de aplicativos web, científicos, de automação, e muito mais, devido à sua vasta gama de bibliotecas e comunidade ativa de desenvolvedores.
+<a href="https://www.mongodb.com/pt-br">MongoDB</a>: É um banco de dados NoSQL que armazena dados em documentos flexíveis usando um formato JSON. Ele oferece escalabilidade e flexibilidade para lidar com grandes volumes de dados e modelos de dados dinâmicos.
 <br></br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>: Aplicado para a montagem do front end da aplicação e montagem das telas inserida na tela de .É uma linguagem de programação amplamente usada para desenvolver aplicativos web interativos e dinâmicos. Ela é executada no lado do cliente, o que significa que é executada no navegador do usuário, permitindo que os desenvolvedores criem experiências interativas e responsivas nas páginas da web.
+<a href="https://www.python.org">Python</a>: Python é uma linguagem de programação versátil e amplamente utilizada, conhecida por sua simplicidade, legibilidade e capacidade de criar aplicativos eficientes. É uma escolha popular para o desenvolvimento de aplicativos web, científicos, de automação, e muito mais, devido à sua vasta gama de bibliotecas e comunidade ativa de desenvolvedores e foi utilzado para a montagem do backend da aplicação
 <br></br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>: HTML foi implementado para a implementação dp front end da aplicação.Esta linguagem de marcação fundamental para a criação de páginas da web inplementado no framework VueJS. Ela define a estrutura e o conteúdo de uma página, usando elementos para organizar o conteúdo da página, criar links, inserir imagens, formularários e muito mais. O HTML fornece a estrutura básica que os navegadores usam para renderizar o conteúdo da web.
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>: É uma linguagem de programação amplamente usada para desenvolver aplicativos web interativos e dinâmicos. Ela é executada no lado do cliente, o que significa que é executada no navegador do usuário, permitindo que os desenvolvedores criem experiências interativas e responsivas nas páginas da web e foi utilizado para a construção de parametros do Front end.
 <br></br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>: Foi utilizado para a aplicação do design e estruturação do componentes do front end do projeto.É uma linguagem de estilo usada para controlar a apresentação e a formatação de páginas da web. Ela permite que você defina cores, fontes, margens, espaçamentos e outros estilos visuais para elementos HTML. Com o CSS, você pode separar a estrutura (HTML) do estilo (CSS) em um site, o que torna mais fácil e flexível a alteração da aparência de um site sem alterar a estrutura. 
 <br></br>
-<a href="https://azure.microsoft.com">Azure</a>: Utilizado para hospedar o banco de dados do sistema de transferência, onde são registradas todas as transações de uma nuvem para outra, garantindo segurança, escalabilidade e rastreabilidade dos dados. O Microsoft Azure é uma plataforma em nuvem confiável e amplamente utilizada que oferece uma ampla gama de serviços de banco de dados para atender às necessidades de armazenamento, recuperação e gerenciamento de dados de aplicativos, proporcionando alta disponibilidade e segurança. É a escolha ideal para empresas que buscam uma infraestrutura robusta e confiável para registrar e controlar as transferências entre nuvens.
-<br></br>
+
 <a href="https://reactjs.org">React</a>: Sendo aplicado como um framework de código aberto e uma biblioteca JavaScript, React é utilizado para construir interfaces de usuário interativas e dinâmicas em aplicações web. Ele é frequentemente empregado em projetos para criar componentes reutilizáveis, gerenciar o estado do aplicativo e fornecer uma experiência de usuário rica. React é conhecido por sua eficiência e poderosa capacidade de renderização, o que o torna uma escolha popular entre desenvolvedores para o desenvolvimento de aplicações web modernas
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
