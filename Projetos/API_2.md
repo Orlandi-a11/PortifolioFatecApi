@@ -12,8 +12,8 @@
 
 
 # :clipboard: Proposta
-O objetivo era apresentar ao nosso cliente, a empresa VISIONA, uma solução para o problema de não ter uma base de dados comunizada, unificada e organizada dos registros que são disponibilizados pelos proprietários das áreas rurais, através do cadastro ambiental rural (CAR).
-Tivemos como meta desenvolver um MVP que forneça ao cliente uma base de dados completa, confiável e organizada com as informações oriundas do sistema CAR. Para isso será utilizado ferramentas do ciclo de aprendizado e metodologia a SCRUM (entregas e desenvolvimento ágil), nas sprints demonstraremos e entregaremos de forma gradativa desde a aquisição, leitura e depuração das informações até a construção e finalização do banco de dados.
+O objetivo deste projeto foi apresentar ao nosso cliente, a empresa VISIONA, uma solução para o problema de não ter uma base de dados comunizada, unificada e organizada dos registros que são disponibilizados pelos proprietários das áreas rurais, através do cadastro Ambiental Rural (CAR).
+Este desenvolvimento teve como meta desenvolver um MVP que fornecesse ao cliente uma base de dados completa, confiável e organizada com as informações oriundas do sistema CAR. Para isso foi utilizado ferramentas do ciclo de aprendizado e metodologia a SCRUM (entregas e desenvolvimento ágil), nas sprints foram apresentados  e demonstrado de forma gradativa desde a aquisição, leitura e depuração das informações até a construção e finalização do banco de dados.
 <br></br>
 ## :desktop_computer: Tecnologias Utilizadas
 <ul>
@@ -24,13 +24,13 @@ Tivemos como meta desenvolver um MVP que forneça ao cliente uma base de dados c
 <img src="https://github.com/Orlandi-a11/PortifolioFatecApi/blob/main/IMG/R.png" width="100" height="100" />
 </ul>
  <br></br>
- <a href="https://gitlab.com">GitLab</a>: Utilizado como repositório de projeto. O GitLab é uma plataforma de gerenciamento de código fonte que permite hospedar, gerenciar e colaborar em projetos de desenvolvimento de software usando o sistema de controle de versão Git.
+ <a href="https://gitlab.com">GitLab</a>: Esta plataorma foi utilizado como repositorio do projeto. O GitLab é uma plataforma de gerenciamento de código fonte que permite hospedar, gerenciar e colaborar em projetos de desenvolvimento de software usando o sistema de controle de versão Git.
 <br></br>
-<a href="https://www.postgresql.org">PostgreSQL</a>: Utilizado como Sistema Gerenciador de Banco de Dados (SGBD) do projeto. O PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto que oferece um alto grau de confiabilidade e flexibilidade.
+<a href="https://www.postgresql.org">PostgreSQL</a>: Este sistema foi utilizado como Sistema Gerenciador de Banco de Dados (SGBD) do projeto. O PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto que oferece um alto grau de confiabilidade e flexibilidade.
 <br></br>
-<a href="https://www.java.com">Java</a>: Utilizado para montar o sistema de descompactação dos dados. Java é uma linguagem de programação versátil e amplamente utilizada, conhecida por sua portabilidade e capacidade de criar aplicativos de alta performance.
+<a href="https://www.java.com">Java</a>:Esta Linguagem foi utilizada para a descompactação dos dados. Java é uma linguagem de programação versátil e amplamente utilizada, conhecida por sua portabilidade e capacidade de criar aplicativos de alta performance.
 <br></br>
-<a href="https://www.pgadmin.org">pgAdmin</a>: Utilizado como interface gráfica para administrar dados no PostgreSQL. O pgAdmin é uma ferramenta de administração de banco de dados que facilita a administração e a manipulação de dados no PostgreSQL por meio de uma interface gráfica amigável.
+<a href="https://www.pgadmin.org">pgAdmin</a>: Esta plataforma foi utilizada como interface gráfica para administrar dados no PostgreSQL. O pgAdmin é uma ferramenta de administração de banco de dados que facilita a administração e a manipulação de dados no PostgreSQL por meio de uma interface gráfica amigável.
 
 
 
@@ -87,7 +87,7 @@ Tivemos como meta desenvolver um MVP que forneça ao cliente uma base de dados c
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>Na qual tivemos que desenvolver bastante para compreender o que deveria ser organizado e implementado na escrita do projeto.</td>
+      <td>Tive de desenvolver bastante para compreender o que deveria ser organizado e implementado na escrita do projeto.</td>
     </tr>
     <tr>
       <td>Adaptabilidade</td>
