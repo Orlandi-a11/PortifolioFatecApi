@@ -42,10 +42,10 @@ Em resumo, nosso sistema oferece uma plataforma abrangente e interativa para a g
 <br></br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>: É uma linguagem de programação amplamente usada para desenvolver aplicativos web interativos e dinâmicos. Ela é executada no lado do cliente, o que significa que é executada no navegador do usuário, permitindo que os desenvolvedores criem experiências interativas e responsivas nas páginas da web e foi utilizado para a construção de parametros do Front end.
 <br></br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>: Foi utilizado para a aplicação do design e estruturação do componentes do front end do projeto.É uma linguagem de estilo usada para controlar a apresentação e a formatação de páginas da web. Ela permite que você defina cores, fontes, margens, espaçamentos e outros estilos visuais para elementos HTML. Com o CSS, você pode separar a estrutura (HTML) do estilo (CSS) em um site, o que torna mais fácil e flexível a alteração da aparência de um site sem alterar a estrutura. 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>: É uma linguagem de estilo usada para controlar a apresentação e a formatação de páginas da web. Ela permite que você defina cores, fontes, margens, espaçamentos e outros estilos visuais para elementos HTML. Com o CSS, você pode separar a estrutura (HTML) do estilo (CSS) em um site, o que torna mais fácil e flexível a alteração da aparência de um site sem alterar a estrutura e Foi utilizado para a aplicação do design e estruturação do componentes do front end do projeto.
 <br></br>
 
-<a href="https://reactjs.org">React</a>: Sendo aplicado como um framework de código aberto e uma biblioteca JavaScript, React é utilizado para construir interfaces de usuário interativas e dinâmicas em aplicações web. Ele é frequentemente empregado em projetos para criar componentes reutilizáveis, gerenciar o estado do aplicativo e fornecer uma experiência de usuário rica. React é conhecido por sua eficiência e poderosa capacidade de renderização, o que o torna uma escolha popular entre desenvolvedores para o desenvolvimento de aplicações web modernas
+<a href="https://reactjs.org">React</a>: Sendo aplicado como um framework de código aberto e uma biblioteca JavaScript, React é utilizado para construir interfaces de usuário interativas e dinâmicas em aplicações web. Ele é frequentemente empregado em projetos para criar componentes reutilizáveis, gerenciar o estado do aplicativo e fornecer uma experiência de usuário rica. React é conhecido por sua eficiência e poderosa capacidade de renderização, o que o torna uma escolha popular entre desenvolvedores para o desenvolvimento de aplicações web modernas ,na qual foi utilizado como o framework do front end do projeto.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -120,15 +120,15 @@ Em resumo, nosso sistema oferece uma plataforma abrangente e interativa para a g
     </tr>
     <tr>
       <td>Escuta ativa</td>
-      <td>Foi desenvolvido a partir do momento que foi necessario compreender as necessidades para a realização das tarefas e para o melhor para a entrega da Equipe.</td>
+      <td>Desenvolvi no momento ao qual foi necessario compreender as necessidades para a realização das tarefas e para o melhor para a entrega da Equipe.</td>
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>Busca pela melhor forma de realizar as tasks direcionadas a mim e para que contruibuir para beneficio próprio.</td>
+      <td>Aprendi a partir da busca pela melhor forma de realizar as tasks direcionadas a mim e para que contruibuir para beneficio próprio.</td>
     </tr>
     <tr>
       <td>Colaboração</td>
-      <td>Realização das tasks de forma harmoniosa e produtiva em equipe, contribuindo com ideias e apoiando os colegas.</td>
+      <td>Realizei das tasks de forma harmoniosa e produtiva em equipe, contribuindo com ideias e apoiando os colegas.</td>
   </table>
 
 
