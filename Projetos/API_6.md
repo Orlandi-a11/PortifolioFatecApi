@@ -20,7 +20,7 @@ Além disso,possui um banco de dados robusto, onde todas as informações das gl
 Em resumo, é uma plataforma abrangente e interativa para a gestão e análise de glebas nacionais. Ao combinar recursos de mapeamento, séries temporais, relatórios, bancos de dados eficientes e funcionalidades de salvamento e download, buscando uma solução basica e proporcionou uma valiosa ferramenta para os usuarios.
  
 
-## :desktop_computer: Tecnologias Utilizadasr
+## :desktop_computer: Tecnologias Utilizadas
 <ul>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" width="100"    height="100" />	
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-plain-wordmark.svg" width="100" height="100" />
