@@ -32,9 +32,9 @@ Em resumo, é uma plataforma abrangente e interativa para a gestão e análise d
 
 </ul>
  <br></br>
- <a href="https://github.com">Github</a>: Esta plataforma foi  Utilizada como repositório de projeto. O Github é uma plataforma de gerenciamento de código fonte que permite hospedar, gerenciar e colaborar em projetos de desenvolvimento de software usando o sistema de controle de versão Git.
+ <a href="https://github.com">Github</a>: O Github é uma plataforma de gerenciamento de código fonte que permite hospedar, gerenciar e colaborar em projetos de desenvolvimento de software usando o sistema de controle de versão Git e esta plataforma foi  Utilizada como repositório de projeto. 
 <br></br>
-<a href="https://www.mysql.com/">MySQL</a>: É um sistema de gerenciamento de banco de dados (SGBD) relacional, ou seja, que utiliza a linguagem SQL como interface. Lançado sobre a licença GPL, possui como desenvolvedor a Oracle Corporation e foi utilizado como Sistema Gerenciador de Banco de Dados (SGBD) do projeto.
+<a href="https://www.mysql.com/">MySQL</a>: É um sistema de gerenciamento de banco de dados (SGBD) relacional, ou seja, que utiliza a linguagem SQL como interface. Lançado sobre a licença GPL, possui como desenvolvedor a Oracle Corporation e este sistema foi utilizado como Sistema Gerenciador de Banco de Dados (SGBD) do projeto.
 <br></br>
 <a href="https://www.mongodb.com/pt-br">MongoDB</a>: É um banco de dados NoSQL que armazena dados em documentos flexíveis usando um formato JSON. Ele oferece escalabilidade e flexibilidade para lidar com grandes volumes de dados e modelos de dados dinâmicos.
 <br></br>
@@ -130,12 +130,6 @@ Em resumo, é uma plataforma abrangente e interativa para a gestão e análise d
       <td>Colaboração</td>
       <td>Realizei das tasks de forma harmoniosa e produtiva em equipe, contribuindo com ideias e apoiando os colegas.</td>
   </table>
-
-
-<br></br>
-<h1 align="center">:part_alternation_mark: LGPD</h1>
-
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
