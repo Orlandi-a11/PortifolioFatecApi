@@ -85,8 +85,8 @@ Em resumo, é uma plataforma abrangente e interativa para a gestão e análise d
       <td>★★★★☆</td>
     </tr>
     <tr>
-      <td>Azure</td>
-      <td>★☆☆☆☆</td>
+      <td>MONGO</td>
+      <td>★★☆☆☆</td>
     </tr>	
     <tr>
       <td>Python</td>
