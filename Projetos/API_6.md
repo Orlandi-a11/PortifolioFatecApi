@@ -32,7 +32,7 @@ Em resumo, é uma plataforma abrangente e interativa para a gestão e análise d
 
 </ul>
  <br></br>
- <a href="https://github.com">Github</a>: O Github é uma plataforma de gerenciamento de código fonte que permite hospedar, gerenciar e colaborar em projetos de desenvolvimento de software usando o sistema de controle de versão Git e esta plataforma foi  Utilizada como repositório de projeto. 
+ <a href="https://github.com">Github</a>: O Github é uma plataforma de gerenciamento de código fonte que permite hospedar, gerenciar e colaborar em projetos de desenvolvimento de software usando o sistema de controle de versão Git e esta plataforma foi utilizada como repositório de projeto. 
 <br></br>
 <a href="https://www.mysql.com/">MySQL</a>: É um sistema de gerenciamento de banco de dados (SGBD) relacional, ou seja, que utiliza a linguagem SQL como interface. Lançado sobre a licença GPL, possui como desenvolvedor a Oracle Corporation e este sistema foi utilizado como Sistema Gerenciador de Banco de Dados (SGBD) do projeto.
 <br></br>
@@ -40,7 +40,7 @@ Em resumo, é uma plataforma abrangente e interativa para a gestão e análise d
 <br></br>
 <a href="https://www.python.org">Python</a>: Python é uma linguagem de programação versátil e amplamente utilizada, conhecida por sua simplicidade, legibilidade e capacidade de criar aplicativos eficientes. É uma escolha popular para o desenvolvimento de aplicativos web, científicos, de automação,e muito mais, devido à sua vasta gama de bibliotecas e comunidade ativa de desenvolvedores e foi utilzado para a montagem do backend da aplicação
 <br></br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>: É uma linguagem de programação amplamente usada para desenvolver aplicativos web interativos e dinâmicos. É utlizada navegador do usuário, permitindo que os desenvolvedores criem experiências interativas e responsivas nas páginas da web e Aplicado para a montagem do front end da aplicação.
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>: É uma linguagem de programação amplamente usada para desenvolver aplicativos web interativos e dinâmicos. É utlizada navegador do usuário, permitindo que os desenvolvedores criem experiências interativas e responsivas nas páginas da web e aplicado para a montagem do front end da aplicação.
 <br></br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>: É uma linguagem de estilo usada para controlar a apresentação e a formatação de páginas da web e permite que você defina cores, fontes, margens, espaçamentos e outros estilos visuais para elementos HTML. Com o CSS, você pode separar a estrutura (HTML) do estilo (CSS) em um site, o que torna mais fácil e flexível a alteração da aparência de um site sem alterar a estrutura e foi utilizado para a aplicação do design e estruturação do componentes do front end do projeto.
 <br></br>
