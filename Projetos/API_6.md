@@ -34,7 +34,7 @@ Em resumo, é uma plataforma abrangente e interativa para a gestão e análise d
  <br></br>
  <a href="https://github.com">Github</a>: O Github é uma plataforma de gerenciamento de código fonte que permite hospedar, gerenciar e colaborar em projetos de desenvolvimento de software usando o sistema de controle de versão Git e esta plataforma foi utilizada como repositório de projeto. 
 <br></br>
-<a href="https://www.mysql.com/">MySQL</a>: É um sistema de gerenciamento de banco de dados (SGBD) relacional, ou seja, que utiliza a linguagem SQL como interface. Lançado sobre a licença GPL, possui como desenvolvedor a Oracle Corporation e este sistema foi utilizado como Sistema Gerenciador de Banco de Dados (SGBD) do projeto.
+<a href="https://www.mysql.com/">MySQL</a>: É um sistema de gerenciamento de banco de dados (SGBD) relacional, ou seja, que utiliza a linguagem SQL como interface. Lançado sobre a licença GPL, possui como desenvolvedor a Oracle Corporation e este sistema foi utilizado como Sistema Gerenciador de Banco de Dados (SGBD) do projeto em nuvem utilizando a plataforma azure.
 <br></br>
 <a href="https://www.mongodb.com/pt-br">MongoDB</a>: É um banco de dados NoSQL que armazena dados em documentos flexíveis usando um formato JSON. Ele oferece escalabilidade e flexibilidade para lidar com grandes volumes de dados e modelos de dados dinâmicos e foi utilizado para a parte LGPD do projeto em quesito de cadastro do usuario.
 <br></br>
