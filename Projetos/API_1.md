@@ -100,7 +100,7 @@ Além disso, o sistema ofereceu a funcionalidade de comunicação por meio de me
 
 <h2 align="center"> GIT DO PROJETO</h2>
 
-<h5 align="center"><a href="https://gitlab.com/orl22/projeto_pi3"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
+<h5 align="center"><a href="https://github.com/Valdineynascimento/projeto_integrador_coffeend"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
 </h5>
 
 
