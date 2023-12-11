@@ -119,11 +119,11 @@ Em resumo, é uma plataforma abrangente e interativa para a gestão e análise d
       <th width="300px">Descrição</th>
     </tr>
     <tr>
-      <td>Escuta ativa</td>
-      <td>Desenvolvi no momento ao qual foi necessario compreender as necessidades para a realização das tarefas e para o melhor para a entrega da Equipe.</td>
+      <td>Tomada de decisões</td>
+      <td>Desenvolvi no momento ao qual foi necessario compreender quais as melhores escolhas para a realização das tarefas e para o melhor para a entrega da Equipe.</td>
     </tr>
     <tr>
-      <td>Proatividade</td>
+      <td>Iniciativa</td>
       <td>Aprendi a partir da busca pela melhor forma de realizar as tasks direcionadas a mim e para que contruibuir para beneficio próprio.</td>
     </tr>
     <tr>
