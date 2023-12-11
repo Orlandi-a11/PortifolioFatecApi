@@ -127,7 +127,7 @@ Em resumo, é uma plataforma abrangente e interativa para a gestão e análise d
       <td>Aprendi a partir da busca pela melhor forma de realizar as tasks direcionadas a mim e para que contruibuir para beneficio próprio.</td>
     </tr>
     <tr>
-      <td>Colaboração</td>
+      <td>Resiliencia</td>
       <td>Realizei das tasks de forma harmoniosa e produtiva em equipe, contribuindo com ideias e apoiando os colegas.</td>
   </table>
 
