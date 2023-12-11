@@ -61,7 +61,7 @@ Durante o desenvolvimento do programa acadêmico, adquiri uma ampla gama de conh
 
 [5º Projeto - TechNINJAS](https://github.com/Orlandi-a11/PortifolioFatecApi/blob/main/Projetos/API_5.md)
 
- [6º Projeto - TechVision]()
+ [6º Projeto - TechVision](https://github.com/Orlandi-a11/PortifolioFatecApi/blob/main/Projetos/API_6.md)
  <div align="center"><br> 
 
 ## Contatos 
